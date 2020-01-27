@@ -1,0 +1,10 @@
+{
+  "employeeName": "beniamin shams",
+  "requestType": "leave request",
+  "description": "sample description",
+  "leaveType": "sick leave",
+  "fromDate": "2019-11-27",
+  "toDate": "2019-12-25",
+  "comment": "this is not ok",
+  "department": "java"
+}
